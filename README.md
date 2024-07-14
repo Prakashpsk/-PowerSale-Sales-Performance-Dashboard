@@ -1,7 +1,9 @@
-# 🚀 PowerSale Sales Performance Dashboard
+# 🚀 Sales Performance Dashboard
+
+![POWER BI Final Output](https://github.com/Prakashpsk/-PowerSale-Sales-Performance-Dashboard/blob/main/powerbi%20sales%20ouput%20image.png)
 
 ## 📜 Introduction
-Welcome to the PowerSale Sales Performance Dashboard! This project utilizes Power BI to provide a comprehensive analysis of sales data, offering valuable insights into total sales, profit, quantity sold, and more.
+Welcome to the Sales Performance Dashboard! This project utilizes Power BI to provide a comprehensive analysis of sales data, offering valuable insights into total sales, profit, quantity sold, and more.
 
 ## 🛠️ Skills/Concepts Developed
 - Data Visualization
@@ -33,7 +35,7 @@ The primary objective of this project is to analyze the sales performance of Pow
 - **State and Sales:** Geographic distribution of sales
 - **Profit/Loss Analysis:** Breakdown of profit and loss
 
-![PowerSale Dashboard](path/to/image.png)
+![PowerSale Dashboard](https://github.com/Prakashpsk/-PowerSale-Sales-Performance-Dashboard/blob/main/sales%20perfomance%201.pbix)
 
 ## 📝 Conclusion
 The PowerSale Sales Performance Dashboard provides a detailed analysis of sales data, highlighting key trends and insights. It serves as a valuable tool for strategic planning and decision making.
